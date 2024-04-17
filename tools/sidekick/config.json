@@ -2,6 +2,12 @@
   "project": "alturaeds",
   "plugins": [
     {
+      "id": "library",
+      "title": "Library",
+      "environments": ["edit", "dev"],
+      "url": "/tools/sidekick/library.html"
+    },  
+    {
       "id": "asset-library",
       "title": "My Assets",
       "environments": [
